@@ -1,3 +1,5 @@
+//  Ankit Gupta
+
 import Settings from "@/pages/settings";
 import Register from "@/pages/register";
 import Login from "@/pages/login";
@@ -24,3 +26,18 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
