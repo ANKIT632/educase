@@ -1,4 +1,4 @@
-//  Ankit Gupta
+// Ankit Gupta
 
 import Settings from "@/pages/settings";
 import Register from "@/pages/register";
