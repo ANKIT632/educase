@@ -21,11 +21,15 @@ This is a modern React project built with Vite, Tailwind CSS, and TypeScript. It
    cd <project-folder>
 
 2. Install dependencies:
-   # npm install
+   ```bash
+    npm install
 
 3. Start the development server: 
-   # npm run dev
+    ```bash
+    npm run dev
 
 4. Open the app in your browser at
 
-   # Open the app in your browser at http://localhost:5173.
+   # Open the app in your browser at
+     ```bash
+      http://localhost:5173.
